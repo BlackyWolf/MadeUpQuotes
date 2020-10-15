@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeUpQuotes.Web", "MadeUpQuotes.Web\MadeUpQuotes.Web.csproj", "{EBA1BF59-9255-452B-A3F9-8C692DA05E7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadeUpQuotes.Web", "MadeUpQuotes.Web\MadeUpQuotes.Web.csproj", "{EBA1BF59-9255-452B-A3F9-8C692DA05E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeUpQuotes.Data", "MadeUpQuotes.Data\MadeUpQuotes.Data.csproj", "{B2D9DF3F-E7BD-4536-8739-3DC8B6DAA6DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EBA1BF59-9255-452B-A3F9-8C692DA05E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA1BF59-9255-452B-A3F9-8C692DA05E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA1BF59-9255-452B-A3F9-8C692DA05E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D9DF3F-E7BD-4536-8739-3DC8B6DAA6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D9DF3F-E7BD-4536-8739-3DC8B6DAA6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D9DF3F-E7BD-4536-8739-3DC8B6DAA6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D9DF3F-E7BD-4536-8739-3DC8B6DAA6DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
